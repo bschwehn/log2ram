@@ -2,7 +2,7 @@
 
 . /etc/log2ram.conf
 
-HDD_LOG=/var/hdd.log
+HDD_LOG=/nfs/public2/meisentvwue/log
 RAM_LOG=/var/log
 
 LOG_NAME="log2ram.log"
